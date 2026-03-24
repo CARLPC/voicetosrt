@@ -1,10 +1,10 @@
 <div align="center">
-<img alt="SamWaf" width="100" src="./logo.jpg"> 
-
-[![GitHub stars](https://img.shields.io/github/stars/CARLPC/voicetosrt?style=flat-square&logo=Github)](https://github.com/CARLPC/voicetosrt)
+    <img alt="SamWaf" width="100%" src="./logo.jpg"> 
+    [![GitHub stars](https://img.shields.io/github/stars/CARLPC/voicetosrt?style=flat-square&logo=Github)](https://github.com/CARLPC/voicetosrt)
 </div>
-# 📱视频字幕生成（Voice To SRT）
-本地或网络视频字幕、人声、伴奏生成助手
+
+# 视频字幕生成（Voice To SRT）
+- 本地或网络视频字幕、人声、伴奏生成助手
 
 
 ## 模型下载地址
@@ -22,3 +22,6 @@
 "large-v3": "https://openaipublic.azureedge.net/main/whisper/models/e5b1a55b89c1367dacf97e3e19bfd829a01529dbfdeefa8caeb59b3f1b81dadb/large-v3.pt",
 "large": "https://openaipublic.azureedge.net/main/whisper/models/e5b1a55b89c1367dacf97e3e19bfd829a01529dbfdeefa8caeb59b3f1b81dadb/large-v3.pt",
 ```
+
+## 星标历史
+[![Star History Chart](https://api.star-history.com/svg?repos=CARLPC/voicetosrt&type=Date)](https://star-history.com/#CARLPC/voicetosrt)
