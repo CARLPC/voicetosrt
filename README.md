@@ -132,12 +132,12 @@ voicetosrt/
 ```
 ## 赞赏码
 <div align="center">
-    <img alt="VoiceToSRT" width="50%" src="./example/zanshang.jpg"> 
+    <img alt="VoiceToSRT" width="50%" src="./zanshang.jpg"> 
 </div>
 
 ## 星标历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CARLPC/voicetosrt&type=Date)](https://star-history.com/#CARLPC/voicetosrt)
+[![Star History Chart](https://api.star-history.com/image?repos=CARLPC/voicetosrt&type=date&legend=top-left)](https://www.star-history.com/?repos=CARLPC%2Fvoicetosrt&type=date&legend=top-left)
 
 ## 许可证
 
