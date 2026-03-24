@@ -1,0 +1,7 @@
+openai-whisper
+torch
+gradio==5.47.2
+yt-dlp
+librosa
+soundfile
+resampy

@@ -1,0 +1,7 @@
+__pycache__
+.venv
+*.lock
+.uv.*
+.python-version*
+.ipynb_checkpoints*
+.virtual_documents*
