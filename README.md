@@ -1,11 +1,31 @@
 <div align="center">
     <img alt="SamWaf" width="100%" src="./logo.jpg"> 
-    [![GitHub stars](https://img.shields.io/github/stars/CARLPC/voicetosrt?style=flat-square&logo=Github)](https://github.com/CARLPC/voicetosrt)
 </div>
+[![GitHub stars](https://img.shields.io/github/stars/CARLPC/voicetosrt?style=flat-square&logo=Github)](https://github.com/CARLPC/voicetosrt)
 
 # 视频字幕生成（Voice To SRT）
 - 本地或网络视频字幕、人声、伴奏生成助手
 
+## 使用说明
+### CUDA机器
+
+```bash
+## 下载源码
+git clone git@github.com:CARLPC/voicetosrt.git
+## 安装conda ffmpeg
+winget install  Anaconda.Anaconda3  --accept-package-agreements
+winget install  Gyan.FFmpeg  --accept-package-agreements
+./run_cuda.cmd
+```
+### Intel GPU机器
+```bash
+## 下载源码
+git clone git@github.com:CARLPC/voicetosrt.git
+## 安装conda ffmpeg
+winget install  Anaconda.Anaconda3  --accept-package-agreements
+winget install  Gyan.FFmpeg  --accept-package-agreements
+./run_xpu.cmd
+```
 
 ## 模型下载地址
 ```bash
