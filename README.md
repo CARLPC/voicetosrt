@@ -132,7 +132,7 @@ voicetosrt/
 ```
 ## 赞赏码
 <div align="center">
-    <img alt="VoiceToSRT" width="50%" src="./zanshang.jpg"> 
+    <img alt="VoiceToSRT" width="50%" src="./zanshang.JPG"> 
 </div>
 
 ## 星标历史
