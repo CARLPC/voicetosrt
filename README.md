@@ -79,6 +79,21 @@ winget install Gyan.FFmpeg --accept-package-agreements
 ./run_xpu.cmd
 ```
 
+#### AMD GPU机器
+```bash
+# 克隆源码
+git clone git@github.com:CARLPC/voicetosrt.git
+
+# 安装 Anaconda
+winget install Anaconda.Anaconda3 --accept-package-agreements
+
+# 安装 FFmpeg
+winget install Gyan.FFmpeg --accept-package-agreements
+
+# 运行程序
+./run_AMD.cmd
+```
+
 ## 模型下载
 
 首次运行程序后会自动下载 Whisper 模型，也支持手动下载：
@@ -129,6 +144,7 @@ voicetosrt/
 ├── example/               # 示例文件
 ├── run_cuda.cmd           # CUDA 启动脚本
 └── run_xpu.cmd            # Intel XPU 启动脚本
+└── run_AMD.cmd            # AMD GPU 启动脚本
 ```
 ## 赞赏码
 <div align="center">
