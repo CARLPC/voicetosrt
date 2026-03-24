@@ -139,6 +139,3 @@ voicetosrt/
 
 
 
-👋 Hi，想聊点什么～
-输入您的问题... (Enter 发送，Shift+Enter 换行)
-内容由AI生成，仅供参考
