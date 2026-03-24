@@ -17,6 +17,8 @@ VoiceToSRT 是一个本地或网络视频字幕、人声、伴奏生成助手。
 - 🎤 提取纯净的人声进行语音识别
 - 📝 生成标准 SRT 格式字幕文件
 
+**在线demo**: [Demos](https://modelscope.cn/studios/lpcarl/VoiceToSRT/)
+
 ## 技术架构
 
 ### 核心功能模块
@@ -128,6 +130,10 @@ voicetosrt/
 ├── run_cuda.cmd           # CUDA 启动脚本
 └── run_xpu.cmd            # Intel XPU 启动脚本
 ```
+## 赞赏码
+<div align="center">
+    <img alt="VoiceToSRT" width="50%" src="./example/zanshang.jpg"> 
+</div>
 
 ## 星标历史
 
