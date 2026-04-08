@@ -163,4 +163,4 @@ with gr.Blocks(css=".divider-line hr {height: 5px; background: linear-gradient(t
 # 启动服务
 if __name__ == "__main__":
     # inbrowser=True：服务就绪后自动用系统默认浏览器打开页面
-    demo.launch(inbrowser=True)
+    demo.launch(server_name="0.0.0.0",server_port=7860,inbrowser=True)
